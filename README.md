@@ -1,21 +1,17 @@
 <div align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTR0cTcwNzdwemY4bm1hcjNpdjo5NmFncXE4ajZoczQ2emc4ZW01dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bIIDMlmuRG0nA4CYUY/giphy.gif" alt="linux" height="115px"/><!--
---><img src="https://readme-typing-svg.herokuapp.com?font=Jacquard+24&size=50&duration=2500&pause=1000&color=C5212EF3&background=2E7E1100&center=true&vCenter=true&repeat=false&width=250&height=65&lines=Fares+Mergui" alt="Typing SVG" /><!--
---><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTR0cTcwNzdwemY4bm1hcjNpdjo5NmFncXE4ajZoczQ2emc4ZW01dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bIIDMlmuRG0nA4CYUY/giphy.gif" alt="linux" height="115px"/>
-<br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Jacquard+24&size=35&duration=2500&pause=1000&color=C5212EF3&background=2E7E1100&center=true&width=225&height=50&lines=DevOps+Engineer;Building+pipelines;Code+%3E+Manual;Always+Learning" alt="Typing SVG" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTR0cTcwNzdwemY4bm1hcjNpdjo5NmFncXE4ajZoczQ2emc4ZW01dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bIIDMlmuRG0nA4CYUY/giphy.gif" alt="linux" height="115px"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jacquard+24&size=50&duration=2500&pause=1000&color=C5212EF3&background=2E7E1100&center=true&vCenter=true&repeat=false&width=250&height=65&lines=Fares+Mergui" alt="Typing SVG" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTR0cTcwNzdwemY4bm1hcjNpdjo5NmFncXE4ajZoczQ2emc4ZW01dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bIIDMlmuRG0nA4CYUY/giphy.gif" alt="linux" height="115px"/>
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jacquard+24&size=35&duration=2500&pause=1000&color=C5212EF3&background=2E7E1100&center=true&width=225&height=50&lines=DevOps+Engineer;Building+pipelines;Code+%3E+Manual;Always+Learning" alt="Typing SVG" />
 </div>
-
-
-
-
-
 
 <div align="center">
   <h2 align="center">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjQ2ZXNtM3FybGxvd21pdjVlOTJqOGsxNTN6OTllamxwNjNxbms3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f7omQNmgiyjj5sffvZ/giphy.gif" alt="linux" height="50px"/> 
-    Whoami 
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjQ2ZXNtM3FybGxvd21pdjVlOTJqOGsxNTN2OTllamxwNjNxbms3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f7omQNmgiyjj5sffvZ/giphy.gif" alt="linux" height="50px"/> 
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjQ2ZXNtM3FybGxvd21pdjVlOTJqOGsxNTN6OTllamxwNjNxbms3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f7omQNmgiyjj5sffvZ/giphy.gif" alt="linux" height="50px"/>&nbsp;&nbsp;&nbsp;Whoami<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjQ2ZXNtM3FybGxvd21pdjVlOTJqOGsxNTN6OTllamxwNjNxbms3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f7omQNmgiyjj5sffvZ/giphy.gif" alt="linux" height="50px"/>
+
+
+
   </h2>
   
   <p align="center">
@@ -40,8 +36,8 @@
 </div>
 
 <h2 align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmJtbTZyeXp4Nml1NzV6Znh3a2h5bjRkcjl2aGw5bXFqcnZvYm1iMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vbBtI86KIe9tFLiJJg/giphy.gif" alt="tech" height="60px"/>
-  Tech stack 
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmJtbTZyeXp4Nml1NzV6Znh3a2h5bjRkcjl2aGw5bXFqcnZvYm1iMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vbBtI86KIe9tFLiJJg/giphy.gif" alt="tech" height="60px"/>&nbsp;
+  Tech stack
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmJtbTZyeXp4Nml1NzV6Znh3a2h5bjRkcjl2aGw5bXFqcnZvYm1iMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vbBtI86KIe9tFLiJJg/giphy.gif" alt="tech" height="60px"/>
 </h2>
 
@@ -89,11 +85,11 @@
   </a>
 </p>
 
-<br><br>
+<br>
 
 <h2 align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmd6OXVkanlyNTA1dHkzdXN5OXYzcGU1YTQ5eXR1eGphNTZsamNzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/C7RgktlaLfKRjWKrFW/giphy.gif" alt="goals" height="40px"/> 
-  Goals 
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmd6OXVkanlyNTA1dHkzdXN5OXYzcGU1YTQ5eXR1eGphNTZsamNzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/C7RgktlaLfKRjWKrFW/giphy.gif" alt="goals" height="40px"/>&nbsp;&nbsp;
+  Goals &nbsp;
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmd6OXVkanlyNTA1dHkzdXN5OXYzcGU1YTQ5eXR1eGphNTZsamNzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/C7RgktlaLfKRjWKrFW/giphy.gif" alt="goals" height="40px"/>
 </h2>
 
