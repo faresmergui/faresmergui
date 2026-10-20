@@ -26,9 +26,9 @@
     <a href="https://github.com/faresmergui?tab=repositories">
       <img src="https://img.shields.io/github/followers/faresmergui?style=for-the-badge&logo=github&logoColor=white&color=red" alt="GitHub followers" />
     </a>
-    <a href="https://github.com/faresmergui?tab=repositories">
+    <!-- <a href="https://github.com/faresmergui?tab=repositories">
       <img src="https://komarev.com/ghpvc/?username=faresmergui&color=red&style=for-the-badge" alt="Profile views"/>
-    </a>
+    </a> -->
     <a href="https://www.linkedin.com/in/fares-mergui/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a> 
