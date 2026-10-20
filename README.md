@@ -46,6 +46,9 @@
   <a href="https://aws.amazon.com" target="_blank">
     <img src="https://raw.githubusercontent.com/faresmergui/github_readme_icons/main/language_and_tools/square/aws/aws.svg" alt="aws" height="58px" width="58px"/>
   </a>&nbsp;&nbsp;
+  <a href="https://www.openstack.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/faresmergui/github_readme_icons/main/language_and_tools/square/openstack/openstack.svg" alt="openstack" height="58px" width="58px"/>
+  </a>&nbsp;&nbsp;
   
   <!-- Containers & Orchestration -->
   <a href="https://www.docker.com/" target="_blank">
